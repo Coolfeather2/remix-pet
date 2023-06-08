@@ -1,5 +1,5 @@
-app = "remix-pet-6c98"
-primary_region = "sjc"
+app = "remix-pet"
+primary_region = "syd"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
